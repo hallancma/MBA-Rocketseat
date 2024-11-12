@@ -1,0 +1,27 @@
+/* Combinator
+   - Descendent
+   - List
+   - Next sibling
+   - Child
+*/
+
+span, mark {
+  color: red;
+}
+
+h2 + p {
+  color: blueviolet;
+}
+
+p + p {
+  color: red;
+}
+
+/* aside ul {
+  margin-top: 60px;;
+} */
+
+aside > ul {
+  margin-top: 60px;
+  color: red;
+}

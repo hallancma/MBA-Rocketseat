@@ -1,0 +1,17 @@
+/*
+Cacading
+- Cascata
+- Hierarquia de regras
+*/
+
+p {
+  color: violet;
+}
+
+p {
+  color: blue;
+}
+
+.green {
+  color: green;
+}

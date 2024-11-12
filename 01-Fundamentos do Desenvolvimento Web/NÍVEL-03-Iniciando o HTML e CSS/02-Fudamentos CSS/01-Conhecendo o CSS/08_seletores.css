@@ -1,0 +1,31 @@
+/* Seletores
+   - id
+   - class
+   - type | element | tag
+   - atributo
+   - universal
+*/
+
+* {
+  color: black;
+}
+
+p {
+  color: saddlebrown;
+}
+
+/* #text {
+  color: yellowgreen;
+} */
+
+.pink {
+  color: pink;
+}
+
+[title] {
+  color:blue;
+}
+
+[title="titulo"] {
+  color:orange;
+}
