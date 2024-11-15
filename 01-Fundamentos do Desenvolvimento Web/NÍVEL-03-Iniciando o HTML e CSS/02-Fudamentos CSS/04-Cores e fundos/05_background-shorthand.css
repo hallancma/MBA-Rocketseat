@@ -1,0 +1,12 @@
+body { 
+  background-image: url("https://cdn-icons-png.flaticon.com/512/5709/5709755.png");
+  background: #f90 url("https://cdn-icons-png.flaticon.com/512/5709/5709755.png") no-repeat center/contain ;
+
+
+}
+
+div {
+width: 200px;
+height: 200px;
+background: #f20 url("https://cdn-icons-png.flaticon.com/512/5709/5709755.png") no-repeat center/contain ;
+}

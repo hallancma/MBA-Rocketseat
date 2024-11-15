@@ -1,0 +1,7 @@
+p {
+  /* font-size:x-large; */
+  /* font-size:1em; pega o elemento pai */
+  /* font-size: 1rem; root element */
+  /* font-size: 10px; */
+  font-size: 100%;
+}
