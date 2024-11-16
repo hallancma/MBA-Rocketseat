@@ -1,0 +1,36 @@
+/* :root {
+
+} */
+/* div:hover {
+  background-color: blueviolet;
+} */
+
+/* div:not(.nao) {
+  background-color: blueviolet;
+} */
+
+/* section:has(div:hover) {
+  border: 2px solid red;
+} */
+
+/* div:nth-child(2) {
+  background-color: lightgreen;
+} */
+
+/* div::first-letter {
+  font-size: 40px;
+} */
+
+div {
+  position: relative;
+}
+
+div::before {
+  content: "";
+  height: 100%;
+  width: 2px;
+  background-color: red;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
