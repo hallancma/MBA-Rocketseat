@@ -29,6 +29,9 @@ Os projetos neste repositório abrangem uma ampla gama de tecnologias e ferramen
 
 - **01 - Página de Receitas:** [Ver Projeto](https://mbaprojetopaginareceita.hallanchristian.com.br/) [Acessar Repositório](https://github.com/hallancma/mba-rockeseat-sirius-projetos-01-pagina-de-receita)
 
+- **02 - Travelgram:** [Ver Projeto](https://travelgram.hallanchristian.com.br/)
+  [Acessar Repositório](https://github.com/hallancma/mba-rockeseat-sirius-projetos-02-travelgram)
+
 ## Contato
 
 Para quaisquer dúvidas ou sugestões, entre em contato através do e-mail: hallancma@gmail.com
