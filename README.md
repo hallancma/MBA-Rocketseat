@@ -27,7 +27,7 @@ Os projetos neste repositório abrangem uma ampla gama de tecnologias e ferramen
 
 ## Projetos
 
-- **01 - Página de Receitas:** [https://mbaprojetopaginareceita.hallanchristian.com.br/](https://mbaprojetopaginareceita.hallanchristian.com.br/)
+- **01 - Página de Receitas:** [https://mbaprojetopaginareceita.hallanchristian.com.br/](Ver Projeto)
 
 ## Contato
 
