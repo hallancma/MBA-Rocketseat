@@ -27,7 +27,7 @@ Os projetos neste repositório abrangem uma ampla gama de tecnologias e ferramen
 
 ## Projetos
 
-- **01 - Página de Receitas:** [Ver Projeto](https://mbaprojetopaginareceita.hallanchristian.com.br/)
+- **01 - Página de Receitas:** [Ver Projeto](https://mbaprojetopaginareceita.hallanchristian.com.br/) [Acessar Repositório](https://github.com/hallancma/mba-rockeseat-sirius-projetos-01-pagina-de-receita)
 
 ## Contato
 
