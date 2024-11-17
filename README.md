@@ -10,8 +10,6 @@ Este repositório contém uma coleção de projetos que foram desenvolvidos como
 
 A estrutura do repositório é organizada da seguinte maneira:
 
-- em breve
-
 Cada pasta de módulo contém subpastas para cada projeto específico, incluindo todos os arquivos de código-fonte, documentação e quaisquer outros recursos relevantes.
 
 ## Tecnologias Utilizadas
@@ -27,6 +25,9 @@ Os projetos neste repositório abrangem uma ampla gama de tecnologias e ferramen
 - **Ferramentas e Outros**:
   - Git e GitHub
 
+## Projetos
+
+- **01 - Página de Receitas:**: [https://mbaprojetopaginareceita.hallanchristian.com.br/](https://mbaprojetopaginareceita.hallanchristian.com.br/)
 
 ## Contato
 
