@@ -1,0 +1,28 @@
+.container {
+  height: 50svh;
+  display: flex;
+  /* flex-flow: wrap; */
+  /* flex-flow: wrap column; */
+  /* flex-flow: column; */
+  /* flex-wrap: wrap; */
+  /* row-gap: 2rem;
+  column-gap: 2rem; */
+  /* gap: 2rem; */
+}
+
+.item {
+  flex-basis: 10%;
+  /* flex: initial; */
+  /* flex: auto; */
+  /* flex: none; */
+  /* flex: 1; */
+  /* flex: 0 10%; */
+  /* flex: 0 1; */
+  /* flex: 1 1 100%; */
+}
+
+.item:nth-child(6) {
+  /* align-self: flex-start; */
+  align-self: center;
+  /* order: -1; */
+}

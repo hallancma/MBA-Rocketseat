@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+}
+
+.item {
+  /* flex-basis: 120px; */
+  /* flex: initial; */
+  /* flex: auto; */
+  /* flex: none; */
+  /* flex: 1; */
+  /* flex: 0 10%; */
+  /* flex: 0 1; */
+  /* flex: 1 1 100%; */
+}
+
+.item:nth-child(6) {
+}

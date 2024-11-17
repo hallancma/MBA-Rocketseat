@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  /* gap: 10px; */
+  /* height: 50vh;
+  flex-direction: column; */
+}
+
+.item {
+  width: 20px;
+  /* width: 20px; */
+  /* flex-grow: 1;*/
+  /* flex-basis: 20px; */
+  flex-shrink: 0.5;
+  flex-grow: 1;
+}
+
+.item:nth-child(6) {
+  /* flex-grow: 2; */
+  /* flex-shrink: 1; */
+}

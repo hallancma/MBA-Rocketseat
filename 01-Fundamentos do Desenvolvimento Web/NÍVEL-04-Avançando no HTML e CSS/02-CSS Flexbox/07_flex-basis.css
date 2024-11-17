@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+  height: 50vh;
+  /* flex-direction: column; */
+}
+
+.item {
+  flex-basis: 10%;
+}
