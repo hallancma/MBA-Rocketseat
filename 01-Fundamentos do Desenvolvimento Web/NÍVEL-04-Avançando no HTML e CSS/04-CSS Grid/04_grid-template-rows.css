@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+}
+#app {
+  display: grid;
+  /* grid-template-columns: repeat(2, 1fr); */
+  /* grid-template-columns: 200px 1fr; */
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  /* grid-template-rows: 200px 1fr; */
+  height: 100vh;
+  border: 2px solid red;
+}
+
+#app div {
+  border: 1px solid green;
+}
+
+span {
+  border: 1px solid blue;
+}

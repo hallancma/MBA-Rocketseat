@@ -1,0 +1,13 @@
+#app {
+  display: grid;
+  /* display: inline-grid; */
+  /* margin-top: 30px; */
+}
+
+#app div {
+  border: 1px solid red;
+}
+
+span {
+  border: 1px solid blue;
+}

@@ -6,5 +6,8 @@
 		{
 			"path": "../MBA-Rocketseat-Projetos"
 		}
-	]
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MBA-Rocketseat"
+	}
 }

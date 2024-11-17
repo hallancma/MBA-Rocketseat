@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  /* display: grid;
+  grid-auto-flow: column;
+  justify-content: start;*/
+  list-style: none;
+  display: flex;
+  justify-content: end;
+  gap: 5%;
+}

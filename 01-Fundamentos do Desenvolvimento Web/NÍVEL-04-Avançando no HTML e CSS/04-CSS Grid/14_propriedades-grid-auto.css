@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  display: grid;
+  list-style: none;
+
+  grid-auto-flow: row;
+  grid-auto-rows: 1fr 2fr 3fr;
+  grid-auto-flow: column;
+  grid-auto-columns: max-content;
+  gap: 16px;
+
+  height: 100vh;
+}
