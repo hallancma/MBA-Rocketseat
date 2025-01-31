@@ -22,6 +22,7 @@
   --stroke-default: #d6d3d1;
   --stroke-highlight: #f3541c;
   --stroke-error: #dc2626;
+  --semantic-error: #dc2626;
 }
 
 body {
