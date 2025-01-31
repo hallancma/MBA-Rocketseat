@@ -33,7 +33,7 @@ Os projetos neste repositório abrangem uma ampla gama de tecnologias e ferramen
   [Acessar Repositório](https://github.com/hallancma/mba-rockeseat-sirius-projetos-02-travelgram)
 
 - **03 - Portal de Notícias Tecnológicas:** [Ver Projeto](https://portalnoticias.hallanchristian.com.br/)
-  [Acessar Repositório]([https://github.com/hallancma/mba-rockeseat-sirius-projetos-03-portal-de-noticias])
+  [Acessar Repositório](https://github.com/hallancma/mba-rockeseat-sirius-projetos-03-portal-de-noticias)
 
 
   
