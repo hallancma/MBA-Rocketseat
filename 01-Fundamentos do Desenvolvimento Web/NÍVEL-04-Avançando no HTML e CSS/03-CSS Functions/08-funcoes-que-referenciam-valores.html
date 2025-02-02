@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    div {
+
+      --size: 500px;
+
+      width: var(--size);
+      height: var(--size);
+      border: solid rgb(21, 179, 21);
+      /* background-color: aqua; */
+      background: url(https://picsum.photos/500/500) center/contain no-repeat;
+
+    }
+
+    div::before {
+      content: attr(data-content);
+    }
+  </style>
+</head>
+
+<body>
+  <div data-content="alo">
+    Hallan
+  </div>
+</body>
+
+</html>

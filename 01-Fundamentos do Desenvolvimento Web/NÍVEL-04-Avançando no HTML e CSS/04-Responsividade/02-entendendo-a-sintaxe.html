@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css" media="screen and (orientation: portrait)">
+  <style>
+    :root {
+      --bg-color: rebeccapurple;
+      ;
+    }
+
+    body {
+      background-color: var(--bg-color);
+      color: white;
+    }
+
+    .minhaDiv {
+      --size: 100px;
+      /* width: var(--size);
+      height: var(--size);
+      border: pink solid; */
+      background: orangered;
+      font-size: clamp(1rem, 7vw, 2rem);
+    }
+
+    @media screen and (min-width: 576px) {
+      :root {
+        --bg-color: orangered;
+        ;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Title Goes Here</h1>
+  <div class="minhaDiv">
+    1
+  </div>
+</body>
+
+</html>
