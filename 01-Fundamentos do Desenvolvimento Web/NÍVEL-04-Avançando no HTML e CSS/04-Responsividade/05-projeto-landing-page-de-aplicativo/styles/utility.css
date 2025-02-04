@@ -5,18 +5,20 @@
 .py-lg {
   padding-block: var(--py-lg);
 }
+
 .py-xl {
   padding-block: var(--py-xl);
 }
 
 .px-lg {
-  padding-inline: var(--py-lg);
+  padding-inline: var(--px-lg);
 }
 
 .container {
   --max-width: 375px;
   width: min(var(--max-width), 100% - var(--px-lg) * 2);
-  margin: auto;
+  margin-inline: auto;
+  /* border: solid violet; */
 }
 
 .desktop-only {
@@ -26,7 +28,6 @@
 .even-columns {
   display: grid;
   gap: 1rem;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 }
 
 .flex {
@@ -37,17 +38,19 @@
   align-items: center;
 }
 
-.gap1 {
+.gap-1 {
   gap: 1rem;
 }
-.gap1\.5 {
+
+.gap-1\.5 {
   gap: 1.5rem;
 }
+
 .grid {
   display: grid;
 }
 
-@media (width >=80em) {
+@media (width >= 80em) {
   .container {
     --max-width: 80rem;
   }
@@ -56,7 +59,7 @@
     display: initial;
   }
 
-  .desktop-only {
+  .even-columns {
     grid-auto-flow: column;
     grid-auto-columns: 1fr;
   }
