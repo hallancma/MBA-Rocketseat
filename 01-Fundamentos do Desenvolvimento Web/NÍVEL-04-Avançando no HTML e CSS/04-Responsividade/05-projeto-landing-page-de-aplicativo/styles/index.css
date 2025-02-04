@@ -7,4 +7,5 @@
 @import url(sections.css);
 @import url(about.css);
 @import url(cards.css);
+@import url(pricing.css);
 @import url(features.css) (width >= 80em);
