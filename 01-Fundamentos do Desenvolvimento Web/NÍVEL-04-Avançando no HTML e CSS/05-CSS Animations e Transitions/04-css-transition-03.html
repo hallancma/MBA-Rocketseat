@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    body {
+      background-color: mediumslateblue;
+    }
+
+    div {
+      background-color: white;
+      width: 4rem;
+      height: 4rem;
+
+      opacity: .6;
+      /* transition-property: all; */
+      /*opacity, transform; */
+      /* transition-duration: 700ms; */
+      /* transition-delay: 1s, 10ms; */
+      /* transition-timing-function: linear; */
+      /* transition-timing-function: ease-in; */
+      /* transition-timing-function: ease-out; */
+      /* transition-timing-function: ease-in-out; */
+      /* transition-timing-function: cubic-bezier(.17, .67, .99, .1); */
+      /* transition-timing-function: steps(2); */
+      transition: apacity 1s ease, transform 400ms linear;
+
+    }
+
+    @media (prefers-reduced-motion) {
+      div {
+        transition: none;
+      }
+    }
+
+
+    div:hover {
+      opacity: 1;
+      transform: translateX(20px);
+    }
+  </style>
+</head>
+
+<body>
+  <div>
+
+  </div>
+</body>
+
+</html>

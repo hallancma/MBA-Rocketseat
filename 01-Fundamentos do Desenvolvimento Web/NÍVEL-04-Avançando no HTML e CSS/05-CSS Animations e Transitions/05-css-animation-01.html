@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    body {
+      background-color: mediumslateblue;
+    }
+
+    div {
+      background-color: white;
+      width: 4rem;
+      height: 4rem;
+
+
+    }
+
+    @media (prefers-reduced-motion) {
+      div {
+        transition: none;
+      }
+    }
+
+
+    div:hover {
+      opacity: 1;
+      transform: translateX(20px);
+    }
+
+    button {
+      background-color: deeppink;
+      color: white;
+      width: 4rem;
+      height: 4rem;
+      border: none;
+      border-radius: 50%;
+
+      /* transform: translateX(300px); */
+      /* transform: translateY(300px); */
+      animation-name: move;
+      animation-duration: 1s;
+      animation-delay: 1s;
+      /* animation-fill-mode: backwards; */
+      animation-fill-mode: forwards;
+
+    }
+
+    @keyframes move {
+      0% {
+        background-color: blue;
+      }
+
+      /* from {
+        transform: translateY(0);
+      } */
+
+      /* to {
+        transform: translateY(300px);
+      } */
+      /* 
+      25%,
+      50% {
+        transform: translateY(300px);
+      }
+
+      30%,
+      60% {
+        transform: translateY(0);
+      } */
+
+      100% {
+        transform: translateX(300px);
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <button>
+    Fala, Dev
+  </button>
+</body>
+
+</html>
