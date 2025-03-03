@@ -38,6 +38,9 @@ Os projetos neste repositório abrangem uma ampla gama de tecnologias e ferramen
 - **04 - Formulário de Matrícula - Escola Estrela do Amanhã:** [Ver Projeto](https://formulariomatricula.hallanchristian.com.br/)
   [Acessar Repositório](https://github.com/hallancma/mba-rockeseat-sirius-projetos-04-formulario-de-matricula-escola-estrela-do-amanha)
 
+- **04 - Landing Page Apicativo - Zingen:** [Ver Projeto](https://landpageaplicativo.hallanchristian.com.br/)
+  [Acessar Repositório](https://github.com/hallancma/mba-rockeseat-sirius-projetos-05-projeto-landing-page-de-aplicativo?tab=readme-ov-file)
+
 ## Contato
 
 Para quaisquer dúvidas ou sugestões, entre em contato através do e-mail: hallancma@gmail.com
