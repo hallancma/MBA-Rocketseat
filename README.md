@@ -35,7 +35,7 @@ Os projetos neste repositório abrangem uma ampla gama de tecnologias e ferramen
 - **03 - Portal de Notícias Tecnológicas:** [Ver Projeto](https://portalnoticias.hallanchristian.com.br/)
   [Acessar Repositório](https://github.com/hallancma/mba-rockeseat-sirius-projetos-03-portal-de-noticias)
 
-- **04 - Formulário de Matrícula - Escola Estrega do Amanhã:** [Ver Projeto](https://formulariomatricula.hallanchristian.com.br/)
+- **04 - Formulário de Matrícula - Escola Estrela do Amanhã:** [Ver Projeto](https://formulariomatricula.hallanchristian.com.br/)
   [Acessar Repositório](https://github.com/hallancma/mba-rockeseat-sirius-projetos-04-formulario-de-matricula-escola-estrela-do-amanha)
 
 ## Contato
