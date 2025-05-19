@@ -41,7 +41,7 @@ Os projetos neste repositório abrangem uma ampla gama de tecnologias e ferramen
 - **05 - Landing Page Apicativo - Zingen:** [Ver Projeto](https://landpageaplicativo.hallanchristian.com.br/)
   [Acessar Repositório](https://github.com/hallancma/mba-rockeseat-sirius-projetos-05-projeto-landing-page-de-aplicativo?tab=readme-ov-file)
 
-- **06 - Landing Page Apicativo - Zingen:** [Ver Projeto](https://patinsanimada.hallanchristian.com.br/)
+- **06 - Landing Page Patins Animada:** [Ver Projeto](https://patinsanimada.hallanchristian.com.br/)
   [Acessar Repositório](https://github.com/hallancma/mba-rockeseat-sirius-projetos-06-projeto-landing-page-patins-animada)
 
 ## Contato
