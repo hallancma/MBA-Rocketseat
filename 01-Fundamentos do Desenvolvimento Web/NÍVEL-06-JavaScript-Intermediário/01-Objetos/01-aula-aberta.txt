@@ -1,0 +1,21 @@
+Objetos em JavaScript são estruturas de dados que permitem armazenar e organizar informações de forma mais complexa e estruturada. Eles são como "caixas" que podem conter diferentes tipos de dados, como números, textos, funções e até mesmo outros objetos.
+
+Imagine um objeto como uma ficha de cadastro de uma pessoa. Nessa ficha, você tem várias informações como nome, idade, endereço, telefone, etc. Cada uma dessas informações é chamada de "propriedade" do objeto, e cada propriedade tem um "valor" associado a ela.
+
+Por exemplo, se você tivesse um objeto que representa uma pessoa, ele poderia ter propriedades como:
+- nome: "João"
+- idade: 25
+- endereço: "Rua das Flores, 123"
+- telefone: "123-456-789"
+
+Além de armazenar dados, os objetos também podem conter "métodos", que são funções que podem ser executadas dentro do objeto. Por exemplo, um objeto "pessoa" poderia ter um método "falar" que, quando chamado, exibe uma mensagem.
+
+Os objetos são muito úteis em JavaScript porque permitem organizar o código de forma mais clara e estruturada, facilitando a manutenção e o entendimento do código. Eles são amplamente utilizados em programação orientada a objetos e são uma parte fundamental da linguagem JavaScript.
+
+Algumas características importantes dos objetos em JavaScript:
+1. Eles são dinâmicos, ou seja, você pode adicionar, remover ou modificar propriedades a qualquer momento.
+2. Eles podem ser criados de várias formas, como usando a notação literal ({}), o construtor Object() ou funções construtoras.
+3. Eles podem ser usados para criar estruturas de dados mais complexas, como arrays de objetos ou objetos aninhados.
+4. Eles são passados por referência, o que significa que quando você atribui um objeto a uma variável, a variável recebe uma referência ao objeto, não uma cópia dele.
+
+Em resumo, objetos em JavaScript são uma forma poderosa e flexível de organizar e manipular dados, permitindo criar estruturas de dados mais complexas e reutilizáveis.
