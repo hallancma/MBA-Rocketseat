@@ -1,4 +1,4 @@
-// Decalrea uma variável sem valor
+// Declara uma variável sem valor
 var user;
 
 console.log(user);

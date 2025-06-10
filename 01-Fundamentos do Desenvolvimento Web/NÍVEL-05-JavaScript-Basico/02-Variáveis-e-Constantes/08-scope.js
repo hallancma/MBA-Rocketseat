@@ -18,5 +18,6 @@ var email = "john@email.com";
   // let age = 25 nao funciona;
   var age = 25;
 }
-
 console.log(age);
+
+

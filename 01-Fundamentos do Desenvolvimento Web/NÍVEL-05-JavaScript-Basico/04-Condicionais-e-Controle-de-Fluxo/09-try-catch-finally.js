@@ -3,7 +3,7 @@
 // 1. Exemplo básico de try-catch-finally
 try {
   console.log("Tentando executar código...");
-  throw new Error("Erro proposital");
+  throw new Error("Erro proposital ");
 } catch (erro) {
   console.log("Erro capturado:", erro.message);
 } finally {
@@ -13,6 +13,7 @@ try {
 // 2. Exemplo com operações matemáticas
 function dividirNumeros(a, b) {
   try {
+    r
     if (b === 0) {
       throw new Error("Divisão por zero não é permitida");
     }
