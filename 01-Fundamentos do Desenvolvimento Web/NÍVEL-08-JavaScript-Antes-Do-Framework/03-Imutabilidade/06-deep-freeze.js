@@ -31,4 +31,3 @@ deepFreeze(book);
 book.category = "HTML";
 book.author.name = "Pedro";
 
-console.log(book);

@@ -15,6 +15,4 @@ const pessoa = { nome: "Ana", idade: 25 };
 // Forma imutável: cria um novo objeto, não altera o original
 const novaPessoa = { ...pessoa, idade: 26 }; // { nome: "Ana", idade: 26 }
 
-// O array e o objeto originais permanecem iguais
-
 

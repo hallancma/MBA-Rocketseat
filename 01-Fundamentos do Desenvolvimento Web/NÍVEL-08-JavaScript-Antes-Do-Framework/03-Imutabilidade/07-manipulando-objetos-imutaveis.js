@@ -18,8 +18,3 @@ const updatedBook = {
 }
 
 
-// console.log(updatedBook);
-
-//Utilizando o operador de desestruturação (rest operator) para remover propriedades
-const { category, ...bookWithoutCategory } = book;
-console.log(bookWithoutCategory);

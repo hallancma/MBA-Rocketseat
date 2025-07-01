@@ -6,5 +6,5 @@ function multiply(a, b) {
   return a * b;
 }
 
-export { sum, multiply }
-
+export { sum, multiply };
+0;
