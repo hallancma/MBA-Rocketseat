@@ -1,4 +1,15 @@
 // babel.config.js
-module.exports = {
-  presets: ["@babel/preset-env"],
-};
+const presets = [
+  [
+    "@babel/preset-env",
+    {
+      targets: {
+        edge: "17",
+        firefox: "60",
+        chrome: "64",
+        safari: "11",
+      },
+    },
+  ],
+];
+module.exports = { presets };

@@ -1,10 +1,12 @@
+"use strict";
+
 class user {
   constructor(name, idade) {
     this.name = name;
     this.idade = idade;
   }
   greeting() {
-    return `Olá, meu nome é ${this.name} e tenho ${this.idade} anos.`;
+    return "Ol\xE1, meu nome \xE9 ".concat(this.name, " e tenho ").concat(this.idade, " anos.");
   }
 }
 let user_01 = new user("Hallan 2", 39);
