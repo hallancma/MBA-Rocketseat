@@ -1,0 +1,6 @@
+{
+  "watch": [
+    "server.json"
+  ],
+  "exec": "json-server --watch server.json --port 3333"
+}
