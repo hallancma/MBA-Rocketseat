@@ -25,7 +25,7 @@ Os projetos neste repositório abrangem uma ampla gama de tecnologias e ferramen
 - **Ferramentas e Outros**:
   - Git e GitHub
 
-## Projetos HTML
+## Projetos Fundamentos do Desenvolvimento Web
 
 - **01 - Página de Receitas:** [Ver Projeto](https://mbaprojetopaginareceita.hallanchristian.com.br/) [Acessar Repositório](https://github.com/hallancma/mba-rockeseat-sirius-projetos-01-pagina-de-receita)
 
@@ -44,7 +44,8 @@ Os projetos neste repositório abrangem uma ampla gama de tecnologias e ferramen
 - **06 - Landing Page Patins Animada:** [Ver Projeto](https://patinsanimada.hallanchristian.com.br/)
   [Acessar Repositório](https://github.com/hallancma/mba-rockeseat-sirius-projetos-06-projeto-landing-page-patins-animada)
 
-## Projetos Javascript
+- **07 - Hair Day - Projeto de Agendamentos:** [Ver Projeto](https://hairday.hallanchristian.com.br/)
+ [Acessar Repositório](https://github.com/hallancma/mba-rockeseat-sirius-projetos-09-hair-day)
 
 
 
