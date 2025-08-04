@@ -1,0 +1,48 @@
+{
+  "compilerOptions": {
+    // Diretórios de entrada e saída
+    "rootDir": "./src",
+    "outDir": "./dist",
+    // Configurações de ambiente
+    "module": "NodeNext",
+    "target": "ESNext",
+    "lib": [
+      "ESNext"
+    ],
+    "types": [
+      "node"
+    ],
+    // Outros outputs
+    "sourceMap": true,
+    "declaration": true,
+    "declarationMap": true,
+    // Regras de verificação
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+    "strict": true,
+    // Configurações de estilo de código (descomente se quiser)
+    // "noImplicitReturns": true,
+    // "noImplicitOverride": true,
+    // "noUnusedLocals": true,
+    // "noUnusedParameters": true,
+    // "noFallthroughCasesInSwitch": true,
+    // "noPropertyAccessFromIndexSignature": true,
+    // React (pode manter mesmo sem usar agora)
+    "jsx": "react-jsx",
+    // Outros
+    "verbatimModuleSyntax": true,
+    "isolatedModules": true,
+    "noUncheckedSideEffectImports": true,
+    "moduleDetection": "force",
+    "skipLibCheck": true
+  },
+  "include": [
+    "src"
+  ],
+  "exclude": [
+    "node_modules"
+  ],
+  "scripts": {
+    "dev": "tsc --watch"
+  }
+}

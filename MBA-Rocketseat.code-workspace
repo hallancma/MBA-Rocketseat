@@ -8,6 +8,9 @@
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "MBA-Rocketseat"
+		"liveServer.settings.multiRootWorkspaceName": "MBA-Rocketseat",
+		"cSpell.words": [
+			"Hallan"
+		]
 	}
 }

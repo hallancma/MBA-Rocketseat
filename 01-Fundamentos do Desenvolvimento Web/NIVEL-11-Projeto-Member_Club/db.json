@@ -1,0 +1,221 @@
+{
+  "clients": [
+    {
+      "id": "111-222-333-444",
+      "name": "Fernanda Almeida",
+      "clientSince": "18/05/2022",
+      "avatar": "./src/assets/avatar-um.png",
+      "appointmentHistory": [
+        {
+          "date": "09/01/2025",
+          "time": "10:45"
+        },
+        {
+          "date": "01/02/2025",
+          "time": "14:00"
+        },
+        {
+          "date": "13/03/2025",
+          "time": "13:15"
+        },
+        {
+          "date": "12/04/2025",
+          "time": "08:30"
+        },
+        {
+          "date": "12/05/2025",
+          "time": "08:30"
+        },
+        {
+          "date": "10/06/2025",
+          "time": "08:30"
+        },
+        {
+          "date": "12/07/2025",
+          "time": "08:30"
+        },
+        {
+          "date": "20/08/2025",
+          "time": "08:15"
+        },
+        {
+          "date": "21/09/2025",
+          "time": "11:15"
+        },
+        {
+          "date": "25/10/2025",
+          "time": "17:30"
+        }
+      ],
+      "loyaltyCard": {
+        "totalCuts": 10,
+        "cutsNeeded": 10,
+        "cutsRemaining": 0
+      }
+    },
+    {
+      "id": "111-222-333-445",
+      "name": "Camila Duarte",
+      "clientSince": "12/04/2023",
+      "avatar": "./src/assets/avatar-dois.png",
+      "appointmentHistory": [
+        {
+          "date": "06/12/2025",
+          "time": "11:45"
+        },
+        {
+          "date": "17/11/2025",
+          "time": "09:00"
+        },
+        {
+          "date": "07/04/2025",
+          "time": "12:00"
+        },
+        {
+          "date": "22/10/2025",
+          "time": "14:15"
+        }
+      ],
+      "loyaltyCard": {
+        "totalCuts": 4,
+        "cutsNeeded": 10,
+        "cutsRemaining": 6
+      }
+    },
+    {
+      "id": "111-222-333-446",
+      "name": "Rafael Monteiro",
+      "clientSince": "15/07/2023",
+      "avatar": "./src/assets/avatar-3.png",
+      "appointmentHistory": [
+        {
+          "date": "09/07/2025",
+          "time": "16:00"
+        },
+        {
+          "date": "26/03/2025",
+          "time": "09:30"
+        },
+        {
+          "date": "13/01/2025",
+          "time": "15:30"
+        },
+        {
+          "date": "24/07/2025",
+          "time": "17:30"
+        },
+        {
+          "date": "02/05/2025",
+          "time": "08:30"
+        }
+      ],
+      "loyaltyCard": {
+        "totalCuts": 5,
+        "cutsNeeded": 10,
+        "cutsRemaining": 5
+      }
+    },
+    {
+      "id": "111-222-333-447",
+      "name": "Isabela Rocha",
+      "clientSince": "15/03/2024",
+      "avatar": "./src/assets/avatar-quatro.png",
+      "appointmentHistory": [
+        {
+          "date": "25/08/2025",
+          "time": "17:30"
+        },
+        {
+          "date": "12/07/2025",
+          "time": "15:45"
+        },
+        {
+          "date": "24/05/2025",
+          "time": "14:45"
+        },
+        {
+          "date": "09/07/2025",
+          "time": "11:15"
+        },
+        {
+          "date": "05/04/2025",
+          "time": "14:15"
+        },
+        {
+          "date": "08/01/2025",
+          "time": "13:15"
+        },
+        {
+          "date": "09/08/2025",
+          "time": "13:00"
+        },
+        {
+          "date": "13/01/2025",
+          "time": "13:00"
+        },
+        {
+          "date": "04/08/2025",
+          "time": "09:45"
+        },
+        {
+          "date": "04/02/2025",
+          "time": "13:00"
+        }
+      ],
+      "loyaltyCard": {
+        "totalCuts": 10,
+        "cutsNeeded": 10,
+        "cutsRemaining": 0
+      }
+    },
+    {
+      "id": "111-222-333-448",
+      "name": "Henrique Santana",
+      "avatar": "./src/assets/avatar-cinco.png",
+      "clientSince": "01/02/2022",
+      "appointmentHistory": [
+        {
+          "date": "18/09/2025",
+          "time": "08:45"
+        },
+        {
+          "date": "06/05/2025",
+          "time": "12:00"
+        },
+        {
+          "date": "19/05/2025",
+          "time": "09:45"
+        },
+        {
+          "date": "06/05/2025",
+          "time": "13:45"
+        },
+        {
+          "date": "16/10/2025",
+          "time": "15:45"
+        },
+        {
+          "date": "13/02/2025",
+          "time": "15:30"
+        },
+        {
+          "date": "24/02/2025",
+          "time": "13:45"
+        },
+        {
+          "date": "15/05/2025",
+          "time": "10:45"
+        },
+        {
+          "date": "25/06/2025",
+          "time": "12:45"
+        }
+      ],
+      "loyaltyCard": {
+        "totalCuts": 9,
+        "cutsNeeded": 10,
+        "cutsRemaining": 1
+      }
+    }
+  ]
+}
