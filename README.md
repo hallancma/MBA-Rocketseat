@@ -47,7 +47,7 @@ Os projetos neste repositório abrangem uma ampla gama de tecnologias e ferramen
 - **07 - Hair Day - Projeto de Agendamentos:** [Ver Projeto](https://hairday.hallanchristian.com.br/)
  [Acessar Repositório](https://github.com/hallancma/mba-rockeseat-sirius-projetos-09-hair-day)
 
-- **08 - Hair Day - Member Club:** [Ver Projeto](https://memberclub.hallanchristian.com.br/)
+- **08 - Member Club - APP de Fidelidade :** [Ver Projeto](https://memberclub.hallanchristian.com.br/)
  [Acessar Repositório](https://github.com/hallancma/mba-rockeseat-sirius-projetos-10-member-club)
 
 
