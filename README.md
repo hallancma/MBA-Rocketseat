@@ -12,7 +12,7 @@ A estrutura do repositório é organizada da seguinte maneira:
 
 Cada pasta de módulo contém subpastas para cada projeto específico, incluindo todos os arquivos de código-fonte, documentação e quaisquer outros recursos relevantes.
 
-## 1 Projetos Fundamentos do Desenvolvimento Web
+## 1) Projetos Fundamentos do Desenvolvimento Web
 
 - **01 - Página de Receitas:** [Ver Projeto](https://mbaprojetopaginareceita.hallanchristian.com.br/) [Acessar Repositório](https://github.com/hallancma/mba-rockeseat-sirius-projetos-01-pagina-de-receita)
 
@@ -37,7 +37,7 @@ Cada pasta de módulo contém subpastas para cada projeto específico, incluindo
 - **08 - Member Club - APP de Fidelidade :** [Ver Projeto](https://memberclub.hallanchristian.com.br/)
  [Acessar Repositório](https://github.com/hallancma/mba-rockeseat-sirius-projetos-10-member-club)
 
-## 2 Projetos Desenvolvimento Web Front-end
+## 2) Projetos Desenvolvimento Web Front-end
 
 - **01 - Projeto Feed:** [Ver Projeto](https://projetofeed.hallanchristian.com.br/) [Acessar Repositório](https://github.com/hallancma/mba-rockeseat-sirius-projetos-07-projeto-feed)
 
