@@ -40,6 +40,7 @@ Cada pasta de módulo contém subpastas para cada projeto específico, incluindo
 ## 2) Projetos Desenvolvimento Web Front-end
 
 - **01 - Projeto Feed:** [Ver Projeto](https://projetofeed.hallanchristian.com.br/) [Acessar Repositório](https://github.com/hallancma/mba-rockeseat-sirius-projetos-07-projeto-feed)
+- **02 - Projeto Feed Usando TypeScript:** [Ver Projeto](https://projetofeedts.hallanchristian.com.br/) [Acessar Repositório](https://github.com/hallancma/mba-rockeseat-sirius-projetos-07-projeto-feed-ts)
 
 ## Contato
 
