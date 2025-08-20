@@ -12,19 +12,6 @@ A estrutura do repositório é organizada da seguinte maneira:
 
 Cada pasta de módulo contém subpastas para cada projeto específico, incluindo todos os arquivos de código-fonte, documentação e quaisquer outros recursos relevantes.
 
-## Tecnologias Utilizadas
-
-Os projetos neste repositório abrangem uma ampla gama de tecnologias e ferramentas, incluindo, mas não se limitando a:
-
-- **Frontend**:
-  - HTML, CSS, JavaScript
-- **Backend**:
-
-- **Banco de Dados**:
-
-- **Ferramentas e Outros**:
-  - Git e GitHub
-
 ## 1 - Projetos Fundamentos do Desenvolvimento Web
 
 - **01 - Página de Receitas:** [Ver Projeto](https://mbaprojetopaginareceita.hallanchristian.com.br/) [Acessar Repositório](https://github.com/hallancma/mba-rockeseat-sirius-projetos-01-pagina-de-receita)
