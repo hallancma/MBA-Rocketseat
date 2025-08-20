@@ -50,7 +50,9 @@ Os projetos neste repositório abrangem uma ampla gama de tecnologias e ferramen
 - **08 - Member Club - APP de Fidelidade :** [Ver Projeto](https://memberclub.hallanchristian.com.br/)
  [Acessar Repositório](https://github.com/hallancma/mba-rockeseat-sirius-projetos-10-member-club)
 
+## Projetos Desenvolvimento Web Front-end
 
+- **01 - Projeto Feed:** [Ver Projeto](hhttps://projetofeed.hallanchristian.com.br/) [Acessar Repositório](https://github.com/hallancma/mba-rockeseat-sirius-projetos-07-projeto-feed)
 
 ## Contato
 
