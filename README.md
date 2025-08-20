@@ -1,4 +1,4 @@
-# Repositório de Projetos da Pós-Graduação Rocketseat Fullstack Developer
+# Repositório de Projetos da Pós-Graduação em MBA Rocketseat Fullstack Developer
 
 Bem-vindo ao meu repositório de projetos da pós-graduação Rocketseat Fullstack Developer! Este repositório foi criado para armazenar e compartilhar todos os projetos desenvolvidos durante o curso de pós-graduação, abrangendo desde os módulos iniciais até os mais avançados.
 
