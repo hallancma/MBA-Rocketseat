@@ -25,7 +25,7 @@ Os projetos neste repositório abrangem uma ampla gama de tecnologias e ferramen
 - **Ferramentas e Outros**:
   - Git e GitHub
 
-## Projetos Fundamentos do Desenvolvimento Web
+## 1 - Projetos Fundamentos do Desenvolvimento Web
 
 - **01 - Página de Receitas:** [Ver Projeto](https://mbaprojetopaginareceita.hallanchristian.com.br/) [Acessar Repositório](https://github.com/hallancma/mba-rockeseat-sirius-projetos-01-pagina-de-receita)
 
@@ -50,7 +50,7 @@ Os projetos neste repositório abrangem uma ampla gama de tecnologias e ferramen
 - **08 - Member Club - APP de Fidelidade :** [Ver Projeto](https://memberclub.hallanchristian.com.br/)
  [Acessar Repositório](https://github.com/hallancma/mba-rockeseat-sirius-projetos-10-member-club)
 
-## Projetos Desenvolvimento Web Front-end
+## 2 Projetos Desenvolvimento Web Front-end
 
 - **01 - Projeto Feed:** [Ver Projeto](hhttps://projetofeed.hallanchristian.com.br/) [Acessar Repositório](https://github.com/hallancma/mba-rockeseat-sirius-projetos-07-projeto-feed)
 
