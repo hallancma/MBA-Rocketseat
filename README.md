@@ -1,4 +1,4 @@
-# Repositório de Projetos da Pós-Graduação Rocketseat Fullstack Developer
+# Repositório de Projetos da Pós-Graduação em MBA Rocketseat Fullstack Developer
 
 Bem-vindo ao meu repositório de projetos da pós-graduação Rocketseat Fullstack Developer! Este repositório foi criado para armazenar e compartilhar todos os projetos desenvolvidos durante o curso de pós-graduação, abrangendo desde os módulos iniciais até os mais avançados.
 
@@ -12,20 +12,7 @@ A estrutura do repositório é organizada da seguinte maneira:
 
 Cada pasta de módulo contém subpastas para cada projeto específico, incluindo todos os arquivos de código-fonte, documentação e quaisquer outros recursos relevantes.
 
-## Tecnologias Utilizadas
-
-Os projetos neste repositório abrangem uma ampla gama de tecnologias e ferramentas, incluindo, mas não se limitando a:
-
-- **Frontend**:
-  - HTML, CSS, JavaScript
-- **Backend**:
-
-- **Banco de Dados**:
-
-- **Ferramentas e Outros**:
-  - Git e GitHub
-
-## Projetos Fundamentos do Desenvolvimento Web
+## 1) Projetos Fundamentos do Desenvolvimento Web
 
 - **01 - Página de Receitas:** [Ver Projeto](https://mbaprojetopaginareceita.hallanchristian.com.br/) [Acessar Repositório](https://github.com/hallancma/mba-rockeseat-sirius-projetos-01-pagina-de-receita)
 
@@ -50,7 +37,10 @@ Os projetos neste repositório abrangem uma ampla gama de tecnologias e ferramen
 - **08 - Member Club - APP de Fidelidade :** [Ver Projeto](https://memberclub.hallanchristian.com.br/)
  [Acessar Repositório](https://github.com/hallancma/mba-rockeseat-sirius-projetos-10-member-club)
 
+## 2) Projetos Desenvolvimento Web Front-end
 
+- **01 - Projeto Feed:** [Ver Projeto](https://projetofeed.hallanchristian.com.br/) [Acessar Repositório](https://github.com/hallancma/mba-rockeseat-sirius-projetos-07-projeto-feed)
+- **02 - Projeto Feed Usando TypeScript:** [Ver Projeto](https://projetofeedts.hallanchristian.com.br/) [Acessar Repositório](https://github.com/hallancma/mba-rockeseat-sirius-projetos-07-projeto-feed-ts)
 
 ## Contato
 
